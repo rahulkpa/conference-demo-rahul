@@ -1,38 +1,3 @@
-<p align="center">
-    <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/ec559a9f6bfd399b82bb44393651661b08aaf7ba/icons/folder-markdown-open.svg" align="center" width="30%">
-</p>
-<p align="center"><h1 align="center">CONFERENCE-DEMO-RAHUL.GIT</h1></p>
-<p align="center">
-	<em>What a fascinating project!
-
-After analyzing the codebase, I've come up with a few slogan ideas that capture the essence of the Conference Demo project:
-
-1. **"Connect. Collaborate. Convene."** - This slogan emphasizes the conference aspect, highlighting the importance of connections and collaboration.
-2. **"Empowering Conversations Everywhere."** - This phrase focuses on the idea of facilitating meaningful discussions and conversations, which is at the heart of any successful conference.
-3. **"Where Ideas Meet Inspiration."** - This slogan captures the creative energy and innovative spirit that drives conferences and events.
-4. **"Bringing People Together, One Session at a Time."** - This phrase emphasizes the importance of community building and the role that conferences play in fostering connections between people.
-
-However, my top pick is:
-
-**"Unite. Inspire. Engage."**
-
-This slogan is short, memorable, and conveys the project's core values: bringing people together (unite), sparking inspiration and creativity (inspire), and encouraging active participation and engagement (engage). It's a perfect fit for a conference demo project that aims to facilitate meaningful interactions and connections.
-
-What do you think?</em>
-</p>
-<p align="center">
-	<img src="https://img.shields.io/github/license/rahulkpa/conference-demo-rahul.git?style=default&logo=opensourceinitiative&logoColor=white&color=0080ff" alt="license">
-	<img src="https://img.shields.io/github/last-commit/rahulkpa/conference-demo-rahul.git?style=default&logo=git&logoColor=white&color=0080ff" alt="last-commit">
-	<img src="https://img.shields.io/github/languages/top/rahulkpa/conference-demo-rahul.git?style=default&color=0080ff" alt="repo-top-language">
-	<img src="https://img.shields.io/github/languages/count/rahulkpa/conference-demo-rahul.git?style=default&color=0080ff" alt="repo-language-count">
-</p>
-<p align="center"><!-- default option, no dependency badges. -->
-</p>
-<p align="center">
-	<!-- default option, no dependency badges. -->
-</p>
-<br>
-
 ##  Table of Contents
 
 - [ Overview](#-overview)
@@ -343,17 +308,3 @@ Run the test suite using the following command:
    </a>
 </p>
 </details>
-
----
-
-##  License
-
-This project is protected under the [SELECT-A-LICENSE](https://choosealicense.com/licenses) License. For more details, refer to the [LICENSE](https://choosealicense.com/licenses/) file.
-
----
-
-##  Acknowledgments
-
-- List any resources, contributors, inspiration, etc. here.
-
----
